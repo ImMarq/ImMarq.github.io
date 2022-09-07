@@ -8,6 +8,7 @@
   top: 220px;
   bottom: 85px;
   right: 60px;
+  left: 220px;
   width: 320px;
   min-width: unset;
   border-radius: var(--border-radius);
